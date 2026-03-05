@@ -1,0 +1,24 @@
+// This code will be to simulate AWS Access
+
+[
+  { 
+    "username": "jdoe",
+    "privilege": "admin",
+    "last_login_days": 3
+  },
+  {
+    "username": "asmith",
+    "privilege": "user",
+    "last_login_days": 10
+  },
+  {
+    "username": "mjohnson",
+    "priviliege": "admin",
+    "last_login_days": 120
+  },
+  {
+    "username": "tempuser",
+    "privilege": "admin",
+    "last_login_days": 2
+  }
+]
